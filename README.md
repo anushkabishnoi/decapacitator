@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @decapacitator
+- 👋 Hi, I’m Anushka Bishnoi!
 - 👀 I’m interested in ... Programming, software-developement, Cyber-Security, Animations, UI/UX
 - 🌱 I’m currently learning ...Python, MySQL, C++, JavaScript :)
 - 💞️ I’m looking to collaborate on ...Projects!! Loads of projects!!!
