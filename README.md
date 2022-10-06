@@ -1,11 +1,8 @@
-- 👋 Hi, I’m Anushka Bishnoi!
-- 👀 I’m interested in ... Programming, software-developement, Cyber-Security, Animations, UI/UX
-- 🌱 I’m currently learning ...Python, MySQL, C++, JavaScript, HTML, CSS, JAVA :)
-- 💞️ I’m looking to collaborate on ...Projects!! Loads of projects!!!
-- 📫 How to reach me ... https://github.com/decapacitator ;)
-- also maybe anushkabishnoi9@gmail.com 
+Some of my web-d projects✨ 
 
-<!---
-decapacitator/decapacitator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://travel-site-anushka.netlify.app/
+https://interactive-math-question-shooter.netlify.app/
+https://drum-kit-anushka.netlify.app/
+https://clock-anushka.netlify.app/
+
+reach out to me: https://www.linkedin.com/in/anushka-bishnoi-097aa223a/
