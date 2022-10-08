@@ -4,5 +4,6 @@ Some of my web-d projects✨
 🌟 https://interactive-math-question-shooter.netlify.app/
 🌟 https://drum-kit-anushka.netlify.app/
 🌟 https://clock-anushka.netlify.app/
+🌟 https://css-variables-anushka.netlify.app/
 
 reach out to me: https://www.linkedin.com/in/anushka-bishnoi-097aa223a/
